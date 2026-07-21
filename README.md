@@ -11,7 +11,7 @@
 
 	ANALYSES 
 	PRIMARY
-	1. Multi-level (mixed effects) left censored regression testing pre- to intervention and pre to follow-up change in log MME between study arms for AESOPS clinicians (n 	= 493)
+	1. Multi-level (mixed effects) left censored regression testing pre- to intervention and pre to follow-up change in log MME between study arms for AESOPS-1 clinicians (n = 493)
 	2. Exponentiated coefficients result in percent decrease used to derive adjusted MME 
 
 	SECONDARY
